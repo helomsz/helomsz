@@ -2,7 +2,8 @@
 ##### _Conheça um pouco de quem sou eu:_
  
  
-![Alt ou título da imagem](https://img.freepik.com/vetores-premium/mulher-africana-jovem-usando-um-computador-portatil-mostrando-sentada-com-as-pernas-cruzadas-vetor-isolado_126609-850.jpg?semt=ais_hybrid)
+![Alt ou título da imagem](https://img.freepik.com/vetores-premium/uma-mulher-com-um-laptop-e-uma-tela-em-branco_1047188-62861.jpg)
+
 
 
 📍 Campinas 
