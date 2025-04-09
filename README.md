@@ -1,34 +1,18 @@
-# Oi, eu sou a Heloisa 👋🏾👩🏾‍💻
-##### _Conheça um pouco de quem sou eu:_
- 
- 
-![Alt ou título da imagem](https://img.freepik.com/vetores-premium/uma-mulher-com-um-laptop-e-uma-tela-em-branco_1047188-62861.jpg)
 
+<h1 align="center">Hi 👋, I'm Heloisa</h1>
+<h3 align="center">A very dedicated beginner systems developer</h3>
 
+- 🔭 I’m currently working on **Bosch**
 
-📍 Campinas 
+- 🌱 I’m currently learning **HTML,CSS, Java and Python**
 
-🎁 Taurina do dia 2 de maio de 2006 
+- 📫 How to reach me **heloisamilitaosouza@hotmail.com**
 
-📩 heloisamilitaosouza@hotmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/heloisa militão de souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heloisa militão de souza" height="30" width="40" /></a>
+<a href="https://instagram.com/heloisamsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heloisamsz" height="30" width="40" /></a>
+</p>
 
-- Sempre fui muito sonhadora e determinada, ao longo da minha vida já quis ser muitas coisas e por muito tempo quis cursar psicologia até encontrar na programação algo que me desafiasse, durante uma aula de Python  que teve no curso técnico em Mecatrônica realizado no Senai “Roberto Mange”. 
-
-## FORMAÇÃO ACADÊMICA 📚
-- 2022-2024 - Ensino Médio (SESI AMOREIRAS)
-- 2023-2024 - Técnico em Mecatrônica (ESCOLA E FACULDADE SENAI "ROBERTO MANGE")
-
-## CURIOSIDADES 🎀
-
-- Já pratiquei mais de 5 esportes diferentes
-- Sou viciada em ler livros
-- Minha banda favorita é Coldplay
-- Minha série favorita é the walking dead
-
-
-```sh
-Estou muito animada para iniciar minha carreira nessa área,acredito que as possibilidades
-dentro de T.I são infinitas,nós podemos ser literalmente tudo aquilo que quisermos e isso
-me fez escolher essa carreira.
-```
-### _Foi um prazer conhecer você, até a próxima!_ 😉
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
