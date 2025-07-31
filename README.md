@@ -9,11 +9,8 @@
 - 📫 How to reach me **heloisamilitaosouza@hotmail.com**
 <br>
 
-<div>
-<a href="https://github.com/helomsz">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helomsz&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=helomsz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![helomsz's Stats](https://github-readme-stats.vercel.app/api?username=helomsz&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+![helomsz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=helomsz&theme=jolly&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
