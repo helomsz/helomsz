@@ -2,18 +2,20 @@
 <h1 align="center">Hi 👋, I'm Heloisa</h1>
 <h3 align="center">A very dedicated beginner systems developer</h3>
 
-- 🔭 I’m currently working on **Bosch**
+- 💼 I’m currently working on **Bosch**
 
 - 🌱 I’m currently learning **React, Angular, Java and Python**
 
 - 📫 How to reach me **heloisamilitaosouza@hotmail.com**
+
+- 📖 I love **reading** fantasy and romance books
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=helomsz&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=helomsz&theme=rose&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=helomsz&theme=rose&hide_border=false)<br/>
 
-<h3 align="left">Connect with me:</h3>
+# 💡 Connect with me:
 <p align="left">
 <div>
 <a href="https://instagram.com/heloisamsz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
