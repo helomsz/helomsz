@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Bosch**
 
-- 🌱 I’m currently learning **HTML,CSS, Java and Python**
+- 🌱 I’m currently learning **React, Angular, Java and Python**
 
 - 📫 How to reach me **heloisamilitaosouza@hotmail.com**
 <br>
