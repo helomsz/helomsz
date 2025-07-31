@@ -9,10 +9,11 @@
 - 📫 How to reach me **heloisamilitaosouza@hotmail.com**
 <br>
 
-![helomsz's Stats](https://github-readme-stats.vercel.app/api?username=helomsz&theme=jolly&show_icons=true&hide_border=true&count_private=true)
-![helomsz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=helomsz&theme=jolly&hide_border=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=helomsz&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=helomsz&theme=rose&hide_border=false)<br/>
 
-<h3 align="left">📎Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <div>
 <a href="https://instagram.com/heloisamsz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
