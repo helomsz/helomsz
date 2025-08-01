@@ -1,4 +1,5 @@
-![Waving Capsule](https://capsule-render.vercel.app/api?type=waving&height=110&color=E593C1&descAlignY=42&descAlign=28)
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=E593C1&descAlignY=42&descAlign=28" alt="Waving Capsule">
+
 <h1 align="center">Hi 👋, I'm Heloisa</h1>
 <h3 align="center">A passionate beginner in systems development</h3>
 
