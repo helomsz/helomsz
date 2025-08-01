@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Heloisa</h1>
-<h3 align="center">A very dedicated beginner systems developer</h3>
+<h3 align="center">A passionate beginner in systems development</h3>
 
 - 💼 I’m currently working on **Bosch**
 
 - 🌱 I’m currently learning **React, Angular, Java and Python**
 
-- 📫 How to reach me **heloisamilitaosouza@hotmail.com**
+- 📫 How to reach me **heloisamilitaosouza@gmail.com**
 
 - 📖 I love **reading** fantasy and romance books
 <br>
@@ -31,4 +31,6 @@
 </div>
 </p>
 
+### 👁 Views:
+![Profile views](https://komarev.com/ghpvc/?username=helomsz&color=blueviolet)
 
