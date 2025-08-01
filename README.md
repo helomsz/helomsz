@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **React, Angular, Java and Python**
 
-- 📫 How to reach me **heloisamilitaosouza@gmail.com**
-
-- 📖 I love **reading** fantasy and romance books
+- 🧏🏾‍♀️ I love **reading** fantasy and romance books
 <br>
 
 
