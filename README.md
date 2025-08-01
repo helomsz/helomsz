@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Heloisa</h1>
 <h3 align="center">A passionate beginner in systems development</h3>
 
-- 💼 I’m currently working on **Bosch**
+- 💼 I’m currently working on **Bosch Brazil**
 
 - 🌱 I’m currently learning **React, Angular, Java and Python**
 
