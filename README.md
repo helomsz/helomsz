@@ -33,9 +33,10 @@
 
 ## 📊 GitHub Stats:
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helomsz&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="340px">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=helomsz&theme=rose&hide_border=false" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helomsz&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact&custom_color=F06292" width="340px">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=helomsz&theme=rose&hide_border=false&custom_color=F06292" width="400">
 </div>
+
 
 
 ## 💡 Connect with me:
