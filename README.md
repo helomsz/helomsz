@@ -10,10 +10,7 @@
 
 - 📖 I love **reading** fantasy and romance books
 <br>
-<div style="display: flex; justify-content: space-between; padding: 5px 10px; background-color: #f5e1f7; border-radius: 5px;">
-  <a href="#overview" style="color: #333; text-decoration: none; font-weight: bold;">OVERVIEW</a>
-  <a href="#nicole" style="color: #FF007F; text-decoration: none; font-weight: bold;">HELOISA</a>
-</div>
+
 
 
 ## 💻 Languages and Tools:
