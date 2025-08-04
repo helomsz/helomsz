@@ -48,7 +48,7 @@ _**Mechatronics**_ - **SENAI** "Roberto Mange"\
 _January_ 2023 - _December_ 2024
 
 
-## 💡 Connect with me:
+#### 🌎 Connect with me:
 <p align="left">
 <div>
 <a href="https://instagram.com/heloisamsz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
