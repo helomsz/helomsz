@@ -34,11 +34,18 @@
 
 
 ## 📊 GitHub Stats:
-<div style="display: flex; gap: 10px;">
+<div style="display: inline; gap: 10px; align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helomsz&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact&custom_color=F06292" width="338px">
   <img src="https://nirzak-streak-stats.vercel.app/?user=helomsz&theme=rose&hide_border=false&custom_color=F06292" width="400">
 </div>
 
+## 🎓 Education
+
+_**Systems Analysis and Development**_ - **SENAI** "Roberto Mange"\
+_January_ 2025 - _June_ 2026
+
+_**Mechatronics**_ - **SENAI** "Roberto Mange"\
+_January_ 2023 - _December_ 2024
 
 
 ## 💡 Connect with me:
