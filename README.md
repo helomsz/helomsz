@@ -1,7 +1,7 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=b26e75&descAlignY=42&descAlign=28" alt="Waving Capsule">
 
 <h1 align="center">Hi 👋, I'm Heloisa</h1>
-<img src="https://img.shields.io/static/v1?label=Overview&message=HELOISA&color=b26e75&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img  align="center" src="https://img.shields.io/static/v1?label=Overview&message=HELOISA&color=b26e75&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <h3 align="center">A passionate beginner in systems development</h3>
 
 - 💼 I’m currently working on **Bosch Brazil**
