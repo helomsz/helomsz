@@ -49,7 +49,7 @@ _January_ 2023 - _December_ 2024
 
 
 ### 🌎 Connect with me:
-<img src="https://github.com/helomsz/helomsz/blob/main/assets/computador.png" margin-top= "30px" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://github.com/helomsz/helomsz/blob/main/assets/computador.png" margin-top= "-30px" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 <p align="left">
 <div width="50px">
 <a href="https://instagram.com/heloisamsz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
