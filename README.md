@@ -49,7 +49,7 @@ _January_ 2023 - _December_ 2024
 
 
 ### 🌎 Connect with me:
-<img src="(https://i.pinimg.com/736x/e8/ce/a8/e8cea87cb4e9d8624a140d80f8aabc29.jpg)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left">
 <div width="50px">
 <a href="https://instagram.com/heloisamsz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
