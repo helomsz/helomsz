@@ -48,7 +48,7 @@ _**Mechatronics**_ - **SENAI** "Roberto Mange"\
 _January_ 2023 - _December_ 2024
 
 
-#### 🌎 Connect with me:
+### 🌎 Connect with me:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left">
 <div width="50px">
