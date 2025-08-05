@@ -49,7 +49,7 @@ _January_ 2023 - _December_ 2024
 
 
 ### 🌎 Connect with me:
-<img src="[https://sdmntprwestus.oaiusercontent.com/files/00000000-8090-6230-ae7a-b41aca66daec/raw?se=2025-08-05T19%3A47%3A15Z&sp=r&sv=2024-08-04&sr=b&scid=134e0abd-91cc-5d61-86ac-b72056c59753&skoid=c156db82-7a33-468f-9cdd-06af263ceec8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-05T03%3A21%3A51Z&ske=2025-08-06T03%3A21%3A51Z&sks=b&skv=2024-08-04&sig=jhnp2VRfJCQJUaOIeNAYF8WZ%2BQndclh7cQQvTLLlXdA%3D]" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="[https://i.pinimg.com/736x/e8/ce/a8/e8cea87cb4e9d8624a140d80f8aabc29.jpg]" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left">
 <div width="50px">
 <a href="https://instagram.com/heloisamsz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
