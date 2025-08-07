@@ -1,4 +1,5 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=b26e75&descAlignY=42&descAlign=28" alt="Waving Capsule">
+
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=b26e75&descAlignY=42&descAlign=28" alt="Waving Capsule" width="100%">
 
 <h1 align="center">Hi 👋🏾, I'm Heloisa</h1>
 <h3 align="center">A passionate beginner in systems development</h3>
