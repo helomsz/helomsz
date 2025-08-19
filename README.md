@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, Angular, Java and Python**
 
-- 🧏🏾‍♀️ I love **reading** fantasy and romance books
+- 📚 I love **reading** fantasy and romance books
 <br>
 <img  align="center" src="https://img.shields.io/static/v1?label=Overview&message=HELOISA&color=b26e75&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <br>
