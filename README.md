@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **React, Angular, Java and Python**
 
-- 📚 I love **reading** fantasy and romance books
 <br>
 <img  align="center" src="https://img.shields.io/static/v1?label=Overview&message=HELOISA&color=b26e75&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <br>
@@ -47,6 +46,9 @@ _January_ 2025 - _June_ 2026
 
 _**Mechatronics**_ - **SENAI** "Roberto Mange"\
 _January_ 2023 - _December_ 2024
+
+_**Software Engineering**_ - **UNASP**\
+_February_ 2026 - _December_ 2030
 
 
 ### 🌎 Connect with me:
