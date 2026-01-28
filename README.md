@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats:
 <div style="display: inline; gap: 10px; align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helomsz&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact&custom_color=F06292" width="338px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helomsz&theme=rose&hide_border=false" width="538px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helomsz&theme=rose&hide_border=false" width="400px" />
 </div>
 
 ## 🎓 Education
