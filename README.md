@@ -6,7 +6,7 @@
 
 - 💼 I’m currently working on **Bosch Brazil**
 
-- 🌱 I’m currently learning **React, Angular, Next and Spring**
+- 🌱 I’m currently learning **Angular, Next and Spring**
 
 <br>
 <img  align="center" src="https://img.shields.io/static/v1?label=Overview&message=HELOISA&color=b26e75&style=for-the-badge&logo=GitHub" alt="Static GitHub">
